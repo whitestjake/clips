@@ -1,27 +1,21 @@
-# Clips
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+# Clipz
 
-## Development server
+This web application was developed using Angular CLI
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+If you would like to check out the development in your own environment
 
-## Code scaffolding
+clone the repository and then you can launch it with ng serve (or npm start)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This video sharing web application is designed by a gamer for gamers to be able
+to upload their favorite clips and share them with their friends with ease.
 
-## Build
+I am on the fence about making this one live as it is only a passion project and the
+amount of data video storage requires (not to mention the costs associated) can get
+pretty high... none the less, please feel free to clone the repository and check it out.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
